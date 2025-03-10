@@ -1,3 +1,3 @@
-# Api refrence documentation
+# Api Documentation w/ Scalar
 
-- Reference : https://guides.scalar.com/scalar/scalar-api-references/scalar-api-reference-for-docusaurus
+- https://guides.scalar.com/scalar/scalar-api-references/scalar-api-reference-for-docusaurus
